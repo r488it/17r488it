@@ -11,7 +11,7 @@ var code =
 		return r
 	};
 	var num = 0;
-	window.open('https://r488it.github.io/', "r488it", 'width=200, height=200');
+	window.open('https://r488it.github.io/17CommentAddons/', "r488it", 'width=200, height=200');
   $(document).on('click DOMNodeInserted', function() {
 		var elements = document.getElementsByXPath('//aside/div/div/div/ul/li');
 		if (elements.length >= 1 && elements.length>num) {
